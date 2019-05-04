@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/IDF_PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/IDF_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/IDF_PATH/value=${IDF_PATH}
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/PATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/PATH/value=C\:/Program Files/Java/jdk-12.0.1/bin/server;C\:/Program Files/Java/jdk-12.0.1/bin;C\:\\Python27\\;C\:\\Python27\\Scripts;C\:\\Program Files\\Espressif\\ESP-IDF Tools\\mconf-idf;C\:\\Program Files\\Espressif\\ESP-IDF Tools\\tools\\bin;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Windows\\System32\\OpenSSH\\;C\:\\ProgramData\\chocolatey\\bin;C\:\\Program Files\\Puppet Labs\\Puppet\\bin;C\:\\Program Files\\CMake\\bin;C\:\\Program Files\\Git\\cmd;C\:\\Users\\IEUser\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\esp\\esp-idf\\tools;;C\:\\Users\\IEUser\\Desktop
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.100545608/appendContributed=true
